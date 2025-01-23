@@ -1,7 +1,7 @@
 
 # Algorithm
 
-`LeetCode` 算法自学记录
+`LeetCode` 算法自学记录；详细记录自己完全不会的题
 
 ## 01 DivideAndConquer
 
