@@ -1,7 +1,7 @@
 
 # Algorithm
 
-`LeetCode` 算法自学记录；详细记录自己完全不会的题
+`LeetCode` 算法刷题记录；详细记录自己完全不会的题
 
 ## 01 DivideAndConquer
 
@@ -40,7 +40,6 @@
 ## 01 ArraysAndStrings
 
 摘录力扣《数组与字符串》篇的一些有趣题目  
-p.s.仅作为算法学习的回顾和记录使用
 
 ### 数组
 
