@@ -23,12 +23,12 @@
 
 【2812】找出最安全路径  
 
-## 06 PrefixSum
+## 06 Backtracking
+
+## 07 PrefixSum
 
 【238】除了自身以外数组的乘积 (O(1)空间复杂度 & ban除法)  
 【53】最大子数组和  
-
-## 07 BitOperation
 
 ## 08 DynamicProgramming
 
@@ -39,7 +39,11 @@
 
 ## 09 Greedy
 
-## 10 Trick
+## 10 BigInteger
+
+## 11 BitOperation
+
+## 12 Trick
 
 【169】多数元素 (众数)  
 【41】缺失的第一个正数  
@@ -106,3 +110,5 @@
 【1792】最大平均通过率  
 【295】数据流的中位数  
 【347】前K个高频元素  
+
+## 07 DisjointSetUnion
